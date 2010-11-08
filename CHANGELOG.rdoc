@@ -1,0 +1,28 @@
+== master
+
+== 0.1.0 / 2008-08-30
+
+* Remove references to system wget/unzip calls for cross-platform compatibility
+* Add dependency on RubyZip
+
+== 0.0.4 / 2008-06-22
+
+* Remove log files from gems
+
+== 0.0.3 / 2008-05-05
+
+* Updated documentation
+* Change references from RAILS_ROOT to Rails.root
+* Use zipped version of TinyMCE instead of tar
+
+== 0.0.2 / 2007-09-26
+
+* Remove gem dependency on actionpack
+
+== 0.0.1 / 2007-08-20
+
+* Add README documentation
+* Add tiny_mce:uninstall and tiny_mce:update rake tasks
+* Add working unit tests
+* Add installation and uninstallation scripts
+* Add rake tasks tiny_mce:install and tiny_mce:update_options
