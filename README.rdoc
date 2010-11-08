@@ -1,5 +1,9 @@
 = tiny_mce_helper
 
+Older version of: https://github.com/pluginaweek/tiny_mce_helper
+
+Original author: pluginaweek
+
 +tiny_mce_helper+ adds helper methods for creating the TinyMCE initialization
 script.
 
@@ -99,7 +103,7 @@ For example, to create a new configuration file:
 This will create config/tiny_mce_options.yml.  The content of the configuration
 should look similar to:
 
-  --- 
+  ---
   - accessibility_focus
   - accessibility_warnings
   - add_form_submit_trigger
